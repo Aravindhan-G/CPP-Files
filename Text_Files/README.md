@@ -20,13 +20,13 @@
 From the file, count the number of:-
 
 > -> Lines starting with the letters ‘S’ and ‘M’.
-
+>
 > -> Words that the poem contains.
-
+>
 > -> Number of lowercase letters.
-
+>
 > -> Number of uppercase letters.
-
+>
 > -> Number of lines.
-
+>
 > -> Also, calculate the average word size of the file and display all the words with their length.
